@@ -1,0 +1,51 @@
+export const students = [
+  {
+    id: 1,
+    stdName: "Mohit Chouhan",
+    sem: 3,
+    fee: 90800,
+    branch: "MCA",
+  },
+  {
+    id: 2,
+    stdName: "Rahul Ranjan",
+    sem: 5,
+    fee: 87500,
+    branch: "B.Tech",
+  },
+  {
+    id: 3,
+    stdName: "Kahif Abbasi",
+    sem: 4,
+    fee: 105000,
+    branch: "M.Tech",
+  },
+  {
+    id: 4,
+    stdName: "Nehal Kapoor",
+    sem: 3,
+    fee: 48000,
+    branch: "BCA",
+  },
+  {
+    id: 5,
+    stdName: "Rahul Sha",
+    sem: 1,
+    fee: 96000,
+    branch: "MBA",
+  },
+  {
+    id: 6,
+    stdName: "Sudhir Jain",
+    sem: 5,
+    fee: 85000,
+    branch: "B.Tech",
+  },
+  {
+    id: 7,
+    stdName: "Tutul Kabir",
+    sem: 3,
+    fee: 50000,
+    branch: "LLB",
+  },
+];
