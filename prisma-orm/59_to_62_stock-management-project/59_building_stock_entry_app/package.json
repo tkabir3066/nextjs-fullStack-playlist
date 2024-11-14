@@ -1,0 +1,27 @@
+{
+  "name": "59_building_stock_entry_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "next": "15.0.3",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "react-hook-form": "^7.53.2",
+    "react-icons": "^5.3.0",
+    "react-toastify": "^10.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3",
+    "postcss": "^8",
+    "prisma": "^5.22.0",
+    "tailwindcss": "^3.4.1"
+  }
+}
